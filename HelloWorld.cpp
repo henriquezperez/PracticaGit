@@ -8,6 +8,7 @@ int main(){
 	system("pause");
 	
 	
+	
 	cout<<"nueva linea";
 	return 0;
 }
