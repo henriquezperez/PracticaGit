@@ -7,5 +7,6 @@ int main(){
 	cout<<endl;
 	system("pause");
 	cout<<"nueva linea";
+	
 	return 0;
 }
